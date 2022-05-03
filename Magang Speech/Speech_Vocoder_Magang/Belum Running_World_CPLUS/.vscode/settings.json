@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "d4c.h": "c",
+        "dio.h": "c",
+        "harvest.h": "c",
+        "matlabfunctions.h": "c",
+        "cheaptrick.h": "c",
+        "stonemask.h": "c",
+        "synthesisrealtime.h": "c",
+        "synthesis.h": "c",
+        "audioio.h": "c"
+    }
+}

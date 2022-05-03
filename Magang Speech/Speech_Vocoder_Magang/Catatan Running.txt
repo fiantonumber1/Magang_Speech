@@ -1,0 +1,14 @@
+Keterangan dan link
+
+Running
+Sukses Running_World_Python       -https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder
+E:\code\Magang Speech Vocoder\Sukses Running_World_Python\demo\demo.m
+
+Sukses Running_STRAIGHT_MATLAB    -https://github.com/HidekiKawahara/legacy_STRAIGHT
+E:\code\Magang Speech Vocoder\Sukses Running_STRAIGHT_MATLAB\legacy_STRAIGHT-master\src\testingforsynthesis.m
+
+Sukses Running_covarep_MATLAB     -https://github.com/covarep/covarep
+E:\code\Magang Speech Vocoder\Sukses Running_covarep_MATLAB\covarep-master\testingforsynthesis.m
+
+Belum Running
+Belum Running_World_CPLUS         -https://github.com/mmorise/World

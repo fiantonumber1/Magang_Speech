@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python-Wrapper-for-World-Vocoder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python-Wrapper-for-World-Vocoder/lib/World" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python-Wrapper-for-World-Vocoder_Python_Sukses Running" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python-Wrapper-for-World-Vocoder_Python_Sukses Running/lib/World" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sukses Running_World_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sukses Running_World_Python/lib/World" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/magphase-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pulsemodel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pulsemodel/pulsemodel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pulsemodel/sigproc" vcs="Git" />
+  </component>
+</project>
