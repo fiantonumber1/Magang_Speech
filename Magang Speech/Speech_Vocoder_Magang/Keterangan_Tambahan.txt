@@ -1,0 +1,4 @@
+All of the code in here doesnt create by me
+I just run this from the database which have been exist before
+I repair old function and make it fit with the current version which exist today
+I never claim the code is my origin
