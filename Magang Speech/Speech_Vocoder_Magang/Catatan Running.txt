@@ -12,6 +12,6 @@ Sukses Running_covarep_MATLAB         -https://github.com/covarep/covarep
 Sukses Running_covarep_MATLAB\covarep-master\testingforsynthesis.m
 
 Belum Running
-B
-elum Running_World_CPLUS             -https://github.com/mmorise/World
+
+Belum Running_World_CPLUS             -https://github.com/mmorise/World
 Belum Running_magphase-master_Python  - https://github.com/CSTR-Edinburgh/magphase
